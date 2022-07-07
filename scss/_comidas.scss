@@ -7,3 +7,10 @@
     display: flex;
     justify-content: flex-end;
 }
+
+.comidas {
+    &__clase{
+    border-top: 5px;
+        border-color: aqua;
+    }
+}

@@ -11,5 +11,21 @@
   display: flex;
   justify-content: flex-end; }
 
+.comidas__clase {
+  border-top: 5px;
+  border-color: aqua; }
+
+.rock {
+  display: flex;
+  justify-content: flex-start;
+  background-color: #007074;
+  margin-top: -8px; }
+  .rock__img {
+    width: 150px;
+    height: 200px; }
+  .rock__p {
+    margin: 20px;
+    color: aliceblue; }
+
 .imgbanner {
   width: 100vw; }

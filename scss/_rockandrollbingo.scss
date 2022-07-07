@@ -1,0 +1,15 @@
+.rock{
+    display: flex;
+    justify-content: flex-start;
+    background-color: $colorfondo;
+    margin-top: -8px;
+    &__img{
+        width: 150px;
+        height: 200px;
+    }
+    &__p{
+        margin: 20px;
+        color: aliceblue;
+
+    }
+}
